@@ -1,0 +1,28 @@
+﻿REP,Treatements,30.MIN ,1 HR ,2 HR ,3 HR ,6 HR ,24 HR 
+I,Leaf,10,10,10,10,10,50
+II,Leaf,0,0,0,10,20,80
+III,Leaf,0,10,20,20,20,80
+I,Seed,0,0,0,0,0,70
+II,Seed,0,0,0,0,0,20
+III,Seed,0,0,0,0,0,50
+I,Bark,10,10,10,10,30,40
+II,Bark,0,0,0,0,0,30
+III,Bark,0,0,0,0,0,60
+I,Leaf + Bark + Seed,0,0,10,20,20,40
+II,Leaf + Bark + Seed,0,0,0,0,20,20
+III,Leaf + Bark + Seed,0,0,10,10,10,60
+I, Leaf + Bark,0,0,0,0,10,50
+II, Leaf + Bark,0,0,0,0,0,0
+III, Leaf + Bark,0,0,0,0,0,70
+I,Leaf + Seed,0,0,0,0,0,20
+II,Leaf + Seed,0,0,0,0,10,10
+III,Leaf + Seed,0,0,0,10,10,30
+I,Bark + Seed ,0,10,10,10,10,90
+II,Bark + Seed ,0,0,0,0,0,0
+III,Bark + Seed ,0,0,0,0,0,40
+I,Dichlorvos,40,100,100,100,100,100
+II,Dichlorvos,100,100,100,100,100,100
+III,Dichlorvos,100,100,100,100,100,100
+I,Control,0,10,10,10,10,10
+II,Control,0,0,0,0,10,10
+III,Control,0,0,0,0,20,20
